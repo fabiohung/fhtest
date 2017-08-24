@@ -1,3 +1,5 @@
 hello!
 Made a Change
+I am in branch1
+I am in Master
 I want to make a change in Branch2
